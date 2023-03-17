@@ -1,0 +1,12 @@
+Dentro do sistemas já tem um dado de usuário inserido onde:
+nome = teste
+senha = teste
+e também já existem dados inseridos e referentes a esse usuário teste.
+sendo eles:
+Naruto Shippuden com 500 Episódios,
+Naruto Clássico com 220 Episódios,
+Mirai Nikki com 25 Episódios e
+Nanatsu no Taizai com 24 Episódios.
+
+
+A base de dados se encontra na pasta "sql".
